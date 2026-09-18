@@ -1,0 +1,6 @@
+{
+  "name": "Language Function Quest - ધોરણ 6 થી 8",
+  "description": "ધોરણ ૬ થી ૮ માટે ઇન્ટરેક્ટિવ લેંગ્વેજ ફંક્શન, ગ્રામર અને વોકેબ્યુલરી પઝલ ગેમ (Interactive English Language Functions, Grammar and Vocabulary Puzzle Game for Grades 6-8)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
